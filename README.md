@@ -118,8 +118,10 @@ O sistema conduz entrevistas estruturadas, identifica lacunas, conecta informaç
 
 ---
 
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
